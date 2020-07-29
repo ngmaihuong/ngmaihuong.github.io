@@ -1,0 +1,15 @@
+title: t(h)inker
+author: Nguyễn Mai Hương
+email: maihuongnguyen1603@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Currently working on: Saigon Dating Project - Dự án thử nghiệm 3 tháng với chủ đề Hẹn hò ở Thành phố Hồ Chí Minh, Việt Nam.
+theme: minima
+
+# social links
+github_username:  ngmaihuong
+facebook_username: saigondatingproject
+
+show_excerpts: false
+
+plugins:
+  - jemoji
