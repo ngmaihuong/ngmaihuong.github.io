@@ -7,6 +7,3 @@
 #
 layout: home
 ---
-# Data are fun until...
-
-they don't show what we want. But for now, let's have some fun, shall we?
