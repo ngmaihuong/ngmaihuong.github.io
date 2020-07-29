@@ -10,10 +10,10 @@ description: > # this means to ignore newlines until "baseurl:"
 #header_pages:
 # - about.md
 # - projects.md
-
-social_links:
-  github:  ngmaihuong
-  linkedin: huongsierranguyen
+minima:
+  social_links:
+    github: ngmaihuong
+    linkedin: huongsierranguyen
 
 show_excerpts: false
 
