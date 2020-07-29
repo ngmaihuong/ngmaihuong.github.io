@@ -1,14 +1,13 @@
 title: t(h)inker
 author: Nguyễn Mai Hương / Sierra Nguyen
-email: maihuongnguyen1603@gmail.com
-email: nguyehuo@dickinson.edu 
+email: maihuongnguyen1603@gmail.com / nguyehuo@dickinson.edu
 description: > # this means to ignore newlines until "baseurl:"
   
 theme: minima
 
 # social links
+linkedin_username:  huongsierranguyen
 github_username:  ngmaihuong
-linkedin_username: huongsierranguyen
 
 show_excerpts: false
 
