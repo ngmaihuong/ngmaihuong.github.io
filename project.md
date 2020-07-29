@@ -1,3 +1,9 @@
+---
+layout: page
+title: Projects
+permalink: /project/
+---
+
 ## My Projects:
 
 ### Here are quick links to the data projects I had been or am working on:
