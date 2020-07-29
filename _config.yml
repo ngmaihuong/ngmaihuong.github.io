@@ -1,7 +1,6 @@
 title: t(h)inker
-author:
-  name: Nguyễn Mai Hương / Sierra Nguyen
-  email: nguyehuo@dickinson.edu
+author: Nguyễn Mai Hương / Sierra Nguyen
+email: nguyehuo@dickinson.edu
 description: > # this means to ignore newlines until "show_excerpts:"
   I think about problems and tinker with them using data. My tools include R, Python, SQL and Excel.
 
