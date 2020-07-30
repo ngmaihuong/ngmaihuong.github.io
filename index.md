@@ -33,3 +33,21 @@ Together with technological advances in all facets of the business is the gradua
 For this case study, I employ Data Analytics practice in exploring the Talent Acquisition work. Such a combination has become a trending topic in recent years, following the explosion of Big Data and Machine Learning applications in Business. By examining a 30K-entry candidates dataset from a NYC tech start-up, the ultimate question that I ask is **whether it is possible to predict a candidate’s application outcome given the objective attributes of their application**. To find the answer, I apply what [David Donoho](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf) called the "predictive culture's secret sauce" - the *Common Task Framework methodology* - to the *Naive Bayes classifier* to test my model.
 
 For more details, visit [HERE](https://drive.google.com/file/d/1BI6OODUfldydWnKCGVrgxqxB4z1XAPbs/view?usp=sharing).
+
+## Visualizing Probabilistic Uncertainty through Samples with Python
+
+<p align="left">
+  <img src="https://github.com/ngmaihuong/applied-ds-su20/blob/master/assets/img/Week3-assignment.gif?raw=true"  width="400">
+</p>
+
+This custom visualization is among the assignments for my [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting/home/welcome) course, which has taught me how to report and build chart using the *matplotlib* library in Python. The assignment is based on a paper by [Ferreira et al.](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Ferreira_Fisher_Sample_Oriented_Tasks.pdf) which is concerned with the challanges users face when making decisions given uncertain probabilistic data generated through samples. The data for this visualization is generated using the following codes:
+```
+np.random.seed(12345)
+
+df = pd.DataFrame([np.random.normal(32000,200000,3650), 
+                   np.random.normal(43000,100000,3650), 
+                   np.random.normal(43500,140000,3650), 
+                   np.random.normal(48000,70000,3650)], 
+                  index=[1992,1993,1994,1995])
+```
+For full codes, visit [HERE](https://github.com/ngmaihuong/applied-ds-su20/blob/master/C2-Week3-assignment.py).
