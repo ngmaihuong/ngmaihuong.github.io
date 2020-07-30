@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# Projects Overview
+# Overview
 
 ## Saigon Dating Project
 
