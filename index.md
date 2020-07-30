@@ -22,7 +22,7 @@ To accomplish this goal, we develop a [Qualtrics survey](https://bit.ly/3erPyMY)
 
 For more details, visit [HERE](https://ngmaihuong.github.io/saigondatingproject/).
 
-## Case Study: Talent Acquisition across Online Platforms at a Tech Start-up in NYC
+## Case Study: Talent Acquisition across Online Platforms at a Tech Start-up in New York City
 
 <p align="left">
   <img src="https://github.com/ngmaihuong/ngmaihuong.github.io/blob/master/assets/img/TApic.jpg?raw=true"  width="400">
