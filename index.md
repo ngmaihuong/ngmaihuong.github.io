@@ -12,7 +12,7 @@ layout: home
 
 ## Saigon Dating Project
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/ngmaihuong/saigondatingproject/blob/master/assets/img/logo.png?raw=true"  width="400">
 </p>
 
@@ -21,3 +21,15 @@ layout: home
 To accomplish this goal, we develop a [Qualtrics survey](https://bit.ly/3erPyMY) which covers a wide range of topics, from demographics, personal preferences when it comes to dating partners to a personality test based on pop-psychological classification systems, namely *Myers-Briggs Type Indicator (MBTI)* and *Five Love Languages*. Towards the end of the survey, we have an optional section where we dive deep into the respondents sense of self, their concerns and challenges when it comes to romantic relationships and their opinions on dating programs/organizations. The number of responses that we have received so far exceeds our modest initial expectations, with more than 500 responses from various demographic groups.
 
 For more details, visit [HERE](https://ngmaihuong.github.io/saigondatingproject/).
+
+## Case Study: Talent Acquisition across Online Platforms at a Tech Start-up in NYC
+
+<p align="left">
+  <img src="https://github.com/ngmaihuong/ngmaihuong.github.io/blob/master/assets/img/TApic.jpg?raw=true"  width="400">
+</p>
+
+Together with technological advances in all facets of the business is the gradual disappearance of so-called "traditional recruiting", that is recruiting through newspapers, posters and cold calls. Multiple online career platforms such as Indeed, Glassdoor, LinkedIn, etc. have been introduced to help businesses with their hiring needs. The effectiveness of these platforms are undeniable as they have saved a lot of time for both the employers when hiring and the candidates when job searching. However, such replacement might have simultanously introduced new nuances and patterns in the Talent Acquisition dynamics. This is my initial hypothesis.
+
+For this case study, I employ Data Analytics practice in exploring the Talent Acquisition work. Such a combination has become a trending topic in recent years, following the explosion of Big Data and Machine Learning applications in Business. By examining a 30K-entry candidates dataset from a NYC tech start-up, the ultimate question that I ask is **whether it is possible to predict a candidate’s application outcome given the objective attributes of their application**. To find the answer, I apply what [David Donoho](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf) called the "predictive culture's secret sauce" - the *Common Task Framework methodology* - to the *Naive Bayes classifier* to test my model.
+
+For more details, visit [HERE](https://drive.google.com/file/d/1BI6OODUfldydWnKCGVrgxqxB4z1XAPbs/view?usp=sharing)
