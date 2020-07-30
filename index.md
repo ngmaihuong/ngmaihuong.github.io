@@ -32,4 +32,4 @@ Together with technological advances in all facets of the business is the gradua
 
 For this case study, I employ Data Analytics practice in exploring the Talent Acquisition work. Such a combination has become a trending topic in recent years, following the explosion of Big Data and Machine Learning applications in Business. By examining a 30K-entry candidates dataset from a NYC tech start-up, the ultimate question that I ask is **whether it is possible to predict a candidate’s application outcome given the objective attributes of their application**. To find the answer, I apply what [David Donoho](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf) called the "predictive culture's secret sauce" - the *Common Task Framework methodology* - to the *Naive Bayes classifier* to test my model.
 
-For more details, visit [HERE](https://drive.google.com/file/d/1BI6OODUfldydWnKCGVrgxqxB4z1XAPbs/view?usp=sharing)
+For more details, visit [HERE](https://drive.google.com/file/d/1BI6OODUfldydWnKCGVrgxqxB4z1XAPbs/view?usp=sharing).
