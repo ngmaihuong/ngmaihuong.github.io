@@ -5,7 +5,6 @@ description: > # this means to ignore newlines until "show_excerpts:"
   I think about problems and tinker with them using data. My tools include R, Python, SQL and Excel.
 
 show_excerpts: false # set to true to show excerpts on the homepage
-customCSS: ["/style.css"]
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
