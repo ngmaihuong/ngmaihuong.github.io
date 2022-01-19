@@ -13,3 +13,11 @@ I graduated from Dickinson College in Carlisle, PA in May 2021 with a Bachelor's
 As someone who loves thinking about and tinkering with problems, whether the problem be with a chair, a bike, an essay, a social pattern or a business, I like playing with data, especially big ones, because of the myriad possibilities it unfolds. During such a time of digital disruptions and technological advances in the business arena, it is as if the sky is the limit. Therefore, I create this blog as a "sandbox" for myself to explore this interest, as you will find a few projects of various sizes and disciplines that I have worked on here. I hope you find them interesting.
 
 Please feel free to reach out to me at maihuongnguyen1603@gmail.com for any suggestions on how I could improve the listed projects, or just for a nice coffee chat!
+
+Interested in learning more about my background? Check out my resume.
+
+<object data="/assets/pdf/SierraNguyenPostgrad-v1.pdf" type="application/pdf" width="650px" height="650px">
+    <embed src="/assets/pdf/SierraNguyenPostgrad-v1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/SierraNguyenPostgrad-v1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
