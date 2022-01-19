@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 permalink: /about/
 ---
 
@@ -16,7 +16,7 @@ Please feel free to reach out to me at maihuongnguyen1603@gmail.com for any sugg
 
 Interested in learning more about my background? Check out my resume.
 
-<object data="/assets/pdf/SierraNguyenPostgrad-v1.pdf" type="application/pdf" width="800px" height="800px">
+<object data="/assets/pdf/SierraNguyenPostgrad-v1.pdf" type="application/pdf" width="800px" height="700px">
     <embed src="/assets/pdf/SierraNguyenPostgrad-v1.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/SierraNguyenPostgrad-v1.pdf">Download PDF</a>.</p>
     </embed>
