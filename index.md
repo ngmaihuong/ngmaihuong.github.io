@@ -20,6 +20,8 @@ layout: home
 
 During my time with VietLit, we went through **three** big phases: (1) researching the market and building internal teams, (2) launching and running social media campaigns to build an audience base for our product, and (3) launching and maintaining our product – VietLit website. The team grew from 6 to 40 people divided by functions, our social media presence expanding from Facebook to Instagram and Youtube, our number of organic followers on [Facebook](https://www.facebook.com/vietlit.community) (our main promotional channel) growing to 5K+ and our number of website users increasing everyday.
 
+For more details, visit [HERE](https://ngmaihuong.github.io/vietlit/).
+
 ## Saigon Dating Project
 
 <p align="left">
