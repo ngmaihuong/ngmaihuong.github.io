@@ -14,10 +14,8 @@ As someone who loves thinking about and tinkering with problems, whether the pro
 
 Please feel free to reach out to me at maihuongnguyen1603@gmail.com for any suggestions on how I could improve the listed projects, or just for a nice coffee chat!
 
-Interested in learning more about my background? Check out my resume.
-
-<object data="/assets/pdf/SierraNguyenPostgrad-v1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/SierraNguyenPostgrad-v1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/SierraNguyenPostgrad-v1.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<!-- <object data="/assets/pdf/SierraNguyenPostgrad-v1.pdf" type="application/pdf" width="700px" height="700px"> -->
+<!--    <embed src="/assets/pdf/SierraNguyenPostgrad-v1.pdf"> -->
+<!--        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/SierraNguyenPostgrad-v1.pdf">Download PDF</a>.</p> -->
+<!--    </embed> -->
+<!--</object> -->
